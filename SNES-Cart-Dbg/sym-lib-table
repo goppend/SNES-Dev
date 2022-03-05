@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SNES-Cart-Dbg)(type Legacy)(uri ${KIPRJMOD}/SNES-Cart-Dbg.lib)(options "")(descr ""))
+  (lib (name SNES-Cart-Dbg-rescue)(type Legacy)(uri ${KIPRJMOD}/SNES-Cart-Dbg-rescue.lib)(options "")(descr ""))
+)
